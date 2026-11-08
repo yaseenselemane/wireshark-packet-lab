@@ -4,7 +4,7 @@ Seven small captures from my own laptop on my home WiFi, each one triggered by a
 
 Everything here is real output. MAC addresses are replaced with `laptop-MAC` / `router-MAC`. The decoded packets are in [`captures/`](captures/).
 
-Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · **Wireshark** · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
+Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · **Wireshark** · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [CCTV network](https://github.com/yaseenselemane/cctv-network-lab) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
 
 ## How each capture was made
 
