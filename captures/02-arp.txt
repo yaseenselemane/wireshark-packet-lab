@@ -1,0 +1,12 @@
+    1 0.000000000 laptop-MAC → Broadcast    ARP Who has 192.168.0.139? Tell 192.168.0.162
+    2 0.666759900 router-MAC → Broadcast    ARP Who has 192.168.0.231? Tell 192.168.0.1
+    3 0.950500000 laptop-MAC → Broadcast    ARP Who has 192.168.0.139? Tell 192.168.0.162
+    4 1.464923900 router-MAC → Broadcast    ARP Who has 192.168.0.130? Tell 192.168.0.1
+    5 1.710376900 router-MAC → Broadcast    ARP Who has 192.168.0.231? Tell 192.168.0.1
+    6 1.942595100 laptop-MAC → Broadcast    ARP Who has 192.168.0.139? Tell 192.168.0.162
+    7 2.742483500 router-MAC → Broadcast    ARP Who has 192.168.0.231? Tell 192.168.0.1
+    8 3.001796100 laptop-MAC → Broadcast    ARP Who has 192.168.0.250? Tell 192.168.0.162
+    9 3.942085600 laptop-MAC → Broadcast    ARP Who has 192.168.0.250? Tell 192.168.0.162
+   10 4.940885800 laptop-MAC → Broadcast    ARP Who has 192.168.0.250? Tell 192.168.0.162
+   11 6.183177300 router-MAC → Broadcast    ARP Who has 192.168.0.130? Tell 192.168.0.1
+   12 7.228933200 router-MAC → Broadcast    ARP Who has 192.168.0.130? Tell 192.168.0.1

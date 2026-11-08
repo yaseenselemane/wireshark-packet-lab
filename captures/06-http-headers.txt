@@ -1,0 +1,46 @@
+Hypertext Transfer Protocol
+    GET / HTTP/1.1\r\n
+        Request Method: GET
+        Request URI: /
+        Request Version: HTTP/1.1
+    Host: example.com\r\n
+    User-Agent: curl/8.19.0\r\n
+    Accept: */*\r\n
+    \r\n
+    [Full request URI: http://example.com/]
+
+Hypertext Transfer Protocol, has 2 chunks (including last chunk)
+    HTTP/1.1 200 OK\r\n
+        Response Version: HTTP/1.1
+        Status Code: 200
+        [Status Code Description: OK]
+        Response Phrase: OK
+    Date: Sun, 08 Nov 2026 18:08:02 GMT\r\n
+    Content-Type: text/html; charset=utf-8\r\n
+    Transfer-Encoding: chunked\r\n
+    Connection: keep-alive\r\n
+    Server: cloudflare\r\n
+    Last-Modified: Thu, 05 Nov 2026 21:17:41 GMT\r\n
+    Allow: GET, HEAD\r\n
+    Accept-Ranges: bytes\r\n
+    Age: 13339\r\n
+    cf-cache-status: HIT\r\n
+    CF-RAY: a57685503a6603a1-JNB\r\n
+    alt-svc: h3=":443"; ma=86400\r\n
+    \r\n
+    [Request in frame: 4]
+    [Time since request: 48.530900 milliseconds]
+    [Request URI: /]
+    [Full request URI: http://example.com/]
+    HTTP chunked response
+        Data chunk (577 octets)
+            Chunk size: 577 octets
+            Chunk data […]: 3c21646f63747970652068746d6c3e3c68746d6c206c616e673d656e3e3c686561643e3c6d65746120636861727365743d7574662d383e3c6c696e6b2072656c3d69636f6e20687265663d646174613a2c3e3c6d657461206e616d653d76696577706f727420636f6e74656e743d2
+            Chunk boundary: 0d0a
+        End of chunked encoding
+            Chunk size: 0 octets
+        \r\n
+    File Data: 577 bytes
+Line-based text data: text/html (1 lines)
+    […] <!doctype html><html lang=en><head><meta charset=utf-8><link rel=icon href=data:,><meta name=viewport content="width=device-width,initial-scale=1"><title>Example Domain</title><style>html{color-scheme:light dark;background:light-dark
+

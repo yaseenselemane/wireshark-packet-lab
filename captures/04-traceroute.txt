@@ -1,0 +1,32 @@
+    1 0.000000000 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=5/1280, ttl=1
+    2 0.001882000  192.168.0.1 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+    3 0.002851900 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=6/1536, ttl=1
+    4 0.004743100  192.168.0.1 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+    5 0.005637300 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=7/1792, ttl=1
+    6 0.007934600  192.168.0.1 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+    7 1.009889800 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=8/2048, ttl=2
+    8 1.458420100 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=9/2304, ttl=2
+    9 1.953883100 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=10/2560, ttl=2
+   10 2.451576100 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=11/2816, ttl=3
+   11 2.480058100  10.11.113.1 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   12 2.481048500 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=12/3072, ttl=3
+   13 2.514958100  10.11.113.1 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   14 2.515945400 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=13/3328, ttl=3
+   15 2.956768900 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=14/3584, ttl=4
+   16 3.454645100 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=15/3840, ttl=4
+   17 3.529576800 41.216.207.112 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   18 3.529589800 41.216.207.112 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   19 3.530771000 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=16/4096, ttl=4
+   20 3.554075800 41.216.207.112 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   21 4.544193200 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=17/4352, ttl=5
+   22 4.593890800 41.216.207.80 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   23 4.594818000 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=18/4608, ttl=5
+   24 4.680477800 41.216.207.80 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   25 4.681520300 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=19/4864, ttl=5
+   26 4.719001600 41.216.207.80 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   27 5.691253700 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=20/5120, ttl=6
+   28 5.749415200 41.216.207.65 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   29 5.750263600 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=21/5376, ttl=6
+   30 5.796065500 41.216.207.65 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
+   31 5.796885000 192.168.0.162 → 1.1.1.1      ICMP Echo (ping) request  id=0x0001, seq=22/5632, ttl=6
+   32 5.870812300 41.216.207.65 → 192.168.0.162 ICMP Time-to-live exceeded (Time to live exceeded in transit)
